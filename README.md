@@ -3,6 +3,6 @@
 
 ## Java Practical Questions
 
-* [Practical1](Praatical1.pdf)
+* [Practical1](Practical1.pdf)
 
 * [Practical2](Practical%202.pdf)
